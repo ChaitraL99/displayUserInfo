@@ -1,0 +1,13 @@
+.headings {
+  font-size: 4vw;
+  background: -webkit-linear-gradient(#fff, rgb(230, 133, 230));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+.mainBody {
+  min-height: 100vh;
+  justify-content: center;
+  background: linear-gradient(#aa076b, #61045f);
+  clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%);
+}
